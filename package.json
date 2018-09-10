@@ -1,0 +1,10 @@
+{
+  "name": "h4thorne",
+  "version": "0.1.0",
+  "description": "you just never give up do you...",
+  "main": "index.js",
+  "repository": "git@github.com:nicholaswagner/h4thorne.git",
+  "author": "Nicholas <nicholas@secretsignal.com>",
+  "license": "MIT",
+  "private": true
+}
